@@ -190,9 +190,9 @@ aiosignal==1.4.0 \
     # via
     #   -r requirements.txt
     #   aiohttp
-aiosmtplib==4.0.2 \
-    --hash=sha256:72491f96e6de035c28d29870186782eccb2f651db9c5f8a32c9db689327f5742 \
-    --hash=sha256:f0b4933e7270a8be2b588761e5b12b7334c11890ee91987c2fb057e72f566da6
+aiosmtplib==5.1.1 \
+    --hash=sha256:9d384f0c3d8906f745c1cf6819f073145bb2de8b10407905f5e2ee3389bfe6c7 \
+    --hash=sha256:d9a35e9d170bc1a9f66e2fdfe7fd212f7eebb8c1581c621f79395d0bcaba7a68
     # via -r requirements.txt
 aiosqlite==0.21.0 \
     --hash=sha256:131bb8056daa3bc875608c631c678cda73922a2d4ba8aec373b19f18c17e7aa3 \
