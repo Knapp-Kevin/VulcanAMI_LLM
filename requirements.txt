@@ -11,7 +11,7 @@ aiolimiter==1.2.1
 aioredis==2.0.1
 aioresponses==0.7.8
 aiosignal==1.4.0
-aiosmtplib==4.0.2
+aiosmtplib==5.1.1
 aiosqlite==0.21.0
 alembic==1.16.5
 annotated-doc==0.0.4
