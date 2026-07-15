@@ -7722,9 +7722,9 @@ tqdm==4.67.1 \
     #   sentence-transformers
     #   spacy
     #   transformers
-transformers==4.49.0 \
-    --hash=sha256:6b4fded1c5fee04d384b1014495b4235a2b53c87503d7d592423c06128cbbe03 \
-    --hash=sha256:7e40e640b5b8dc3f48743f5f5adbdce3660c82baafbd3afdfc04143cdbd2089e
+transformers==5.5.0 \
+    --hash=sha256:821a9ff0961abbb29eb1eb686d78df1c85929fdf213a3fe49dc6bd94f9efa944 \
+    --hash=sha256:c8db656cf51c600cd8c75f06b20ef85c72e8b8ff9abc880c5d3e8bc70e0ddcbd
     # via
     #   -r requirements.txt
     #   sentence-transformers
