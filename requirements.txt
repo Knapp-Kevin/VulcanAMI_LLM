@@ -242,7 +242,7 @@ narwhals==2.1.2
 nest-asyncio==1.6.0
 netaddr==1.3.0
 networkx==3.4.2
-nltk==3.9.1
+nltk==3.10.0
 numba==0.60.0
 numdifftools==0.9.41
 # numpy constraints:
